@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFC107"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingBottom="40dp"
+    tools:context=".Menu">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:paddingTop="30dp"
+        android:paddingBottom="20dp"
+
+        android:drawablePadding="10dp"
+        android:gravity="center"
+        android:text="Quản lý vận chuyển"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+
+    <android.widget.Button
+        android:id="@+id/btnXem_CT"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="1"
+
+        android:paddingRight="30dp"
+        android:text="Công trình"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="25sp" />
+
+    <android.widget.Button
+        android:id="@+id/btnXem_VT"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="1"
+
+        android:paddingRight="30dp"
+        android:text="Vật tư"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="25sp" />
+
+    <android.widget.Button
+        android:id="@+id/btnXem_TK"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="1"
+
+        android:paddingRight="30dp"
+        android:text="Thống kê"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+    <android.widget.Button
+        android:id="@+id/btnThoat_menu"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_weight="1"
+
+        android:paddingRight="30dp"
+        android:text="Thoát"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+
+</LinearLayout>

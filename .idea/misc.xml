@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/drawable/done_edit_vector.xml" value="0.153" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/drawable/edit_vector.xml" value="0.153" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/activity_chi_tiet_the_loai.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/activity_danh_sach_cong_trinh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/activity_danh_sach_the_loai.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/activity_in_the_loai.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/activity_main.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/canh_bao_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/cong_trinh_custom_listview.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/them_cong_trinh_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/thoat_dialog.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/layout/tim_kiem_dialog.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/TheLoai/app/src/main/res/menu/them_capnhat_timkiem_bar.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
